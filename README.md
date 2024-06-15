@@ -1,17 +1,13 @@
 <h1>Hi 👋, I'm Harisudhan</h1>
 <h3>Elixir/Phoenix Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harisudhanravi&label=Profile%20views&color=0e75b6&style=flat" alt="harisudhanravi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harisudhanravi" alt="harisudhanravi" /></a> </p>
-
 - 🔭 I’m currently working on **Dynamic Form Generator**
 
 - 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Elixir projects**
 
-- 📫 How to reach me **harisudhan29072000@gmail.com**
+- 📫 Reach me at **harisudhan29072000@gmail.com**
 
 <p align="left">
 </p>
@@ -19,6 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> 
+  <a href="https://phoenixframework.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phoenix/phoenix-original.svg" alt="phoenix" width="40" height="40"/> </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
@@ -30,9 +27,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harisudhanravi&show_icons=true&locale=en&layout=compact" alt="harisudhanravi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harisudhanravi&show_icons=true&locale=en" alt="harisudhanravi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harisudhanravi&" alt="harisudhanravi" /></p>
