@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Harisudhan</h1>
 <h3>Elixir/Phoenix Developer</h3>
 
-- 🔭 I’m currently working on **Dynamic Form Generator**
-
-- 🌱 I’m currently learning **Go**
+- 🛠️ Currently building **Calenzy**, a real-time calendar app using Phoenix LiveView
+  
+- 🚀 Exploring **LiveView UI patterns** and **real-time app design** in Elixir
 
 - 👯 I’m looking to collaborate on **Elixir projects**
 
